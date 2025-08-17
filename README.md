@@ -51,4 +51,4 @@ This project is built with:
 
 ## Author
 
--Email: sourov1268@gmail.com
+- Email: sourov1268@gmail.com
