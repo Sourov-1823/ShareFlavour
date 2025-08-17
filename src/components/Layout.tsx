@@ -27,7 +27,7 @@ const Layout = ({ children }: LayoutProps) => {
             <Link to="/" className="flex items-center gap-2">
               <ChefHat className="h-8 w-8 text-primary" />
               <h1 className="text-2xl font-bold bg-gradient-primary bg-clip-text text-transparent">
-                FlavorShare
+                ShareFlavour
               </h1>
             </Link>
             
