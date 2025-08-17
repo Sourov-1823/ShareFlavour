@@ -102,7 +102,7 @@ const Layout = ({ children }: LayoutProps) => {
       <footer className="border-t bg-muted/30 mt-16">
         <div className="container mx-auto px-4 py-8">
           <div className="text-center text-muted-foreground">
-            <p>&copy; 2024 FlavorShare. Made with ❤️ for food lovers.</p>
+            <p>&copy; 2025 ShareFlavour. Made with ❤️ for food lovers.</p>
           </div>
         </div>
       </footer>
