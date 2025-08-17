@@ -49,6 +49,6 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-##Author
+## Author
 
 -Email: sourov1268@gmail.com
